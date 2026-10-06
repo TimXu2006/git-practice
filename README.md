@@ -12,3 +12,11 @@ Great reflection, Tim! I especially liked your point that the responsibility for
 I also agree with you about learning from **working systems**. Reading and improving existing code teaches things that small, from-scratch homework projects rarely do, such as navigating code you did not write and making changes without breaking what already works.
 
 *— Kumneger Matewos ([@ken11235](https://github.com/ken11235))*
+
+## Comment from Jean Park
+
+Really solid reflection, Tim. The point you made about the gap between best practices and what most developers actually do hit home for me. It's easy to assume that once you land a job everything clicks into place, but the reality is that habits like using version control properly, writing clean documentation, and understanding CI/CD pipelines are things you have to build on your own time as a student. No one is going to hand that to you during onboarding.
+
+I also think Limoncelli's idea of reverse-engineering a working system is underrated. In most classes we start from scratch with small projects, but in the real world you're almost always dropped into an existing codebase. Learning how to read and navigate other people's code is a skill that doesn't get enough attention in a traditional curriculum. This assignment is a perfect example — working with each other's repos forces you to engage with code you didn't write, which is way closer to what actual collaboration looks like.
+
+*— Jean Park ([@JunJunHue](https://github.com/JunJunHue))*
